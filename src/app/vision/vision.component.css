@@ -1,0 +1,15 @@
+.vision-container {
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+.vision-container img{
+    width: 300px;
+    height: 400px;
+
+}
